@@ -1,0 +1,23 @@
+/*
+•	Cor dos títulos: #5294a8
+•	Cor do título da tabela: #b58f83
+•	Cor das linhas da tabela: #fcecd8
+•	Largura da tabela: 500px
+
+*/
+
+h1, h2 {
+    color: #5294a8
+}
+
+table {
+    width: 500px;
+}
+
+th {
+    background-color: #b58f83;
+}
+
+tr {
+    background-color: #fcecd8;
+}

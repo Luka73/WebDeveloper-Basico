@@ -1,0 +1,16 @@
+h1 { 
+    color: red;
+    text-decoration: underline;
+    text-align: right;
+    font-style: italic;
+}
+
+h2 { 
+    color: green !important; 
+    text-align: center; 
+}
+
+p {
+    color: brown; 
+    background-color: yellow;
+}

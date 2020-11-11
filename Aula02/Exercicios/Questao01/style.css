@@ -1,0 +1,34 @@
+/*
+•	Cor do título: #ff0000.
+•	Largura da tabela: 500px.
+•	Cor de fundo do título da tabela: #fd3303.
+•	Cor da letra do título da tabela: #000.
+•	Cor de fundo das outras linhas da tabela: #c48530.
+•	Cor do fundo ao passar o mouse: #999.
+•	Cor da letra ao passar o mouse: #fff.
+*/
+
+
+h1 {
+    color: #ff0000
+}
+
+table {
+    width: 500px;
+    text-align: center;
+}
+
+th {
+   background-color: #fd3303;
+   color: #000;
+}
+
+tr {
+    background-color: #c48530;
+}
+
+tr:hover {
+    background-color: #999;
+    color: #fff;
+}
+
