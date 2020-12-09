@@ -23,8 +23,7 @@ h2{
 }
 
 #total{
-    width: 95%;
-    max-width: 1000px;
+    width: 1000px;
     margin: auto;
 }
 
@@ -62,11 +61,11 @@ h2{
 }
 
 .texto1{
-    width: 60%;
+    width: 600px;
 }
 
 .texto2{
-   width: 35%; 
+   width: 350px; 
 }
 
 .texto2 p{
@@ -76,8 +75,7 @@ h2{
 
 #rodape{
     clear: both;
-    width: 100%;
-    max-width: 1000px;
+    width: 1000px;
     text-align: center;
     font-size: 12px;
     padding: 30px 0;
