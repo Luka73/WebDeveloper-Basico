@@ -1,0 +1,22 @@
+#header {
+    height: 75px;
+    width: 100%;
+    background-color: rgb(15, 145, 11);
+}
+
+#titulo {
+    color: #fff;
+    line-height: 75px;
+}
+
+#formulario{
+    width: 500px;
+}
+
+.paragrafo {
+    color: rgb(31, 96, 170);
+}
+
+.pad {
+    padding: 0 3%;
+}
